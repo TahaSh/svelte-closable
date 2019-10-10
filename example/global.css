@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: hsl(260, 60%, 97%);
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
